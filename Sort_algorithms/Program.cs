@@ -14,7 +14,7 @@ namespace Sort_algorithms
             }
 
             DateTime start = DateTime.Now;
-            BubbleSort.Sort<int>(tableToSort);
+            SelectionSort.Sort<int>(tableToSort);
             DateTime end = DateTime.Now;
             
             TimeSpan ts = (end - start);

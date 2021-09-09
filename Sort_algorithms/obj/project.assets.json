@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kino7\\Documents\\Programowanie\\Sort_algorithms\\Sort_algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\kino7\\Documents\\Programowanie\\Algorithms\\Sort_algorithms\\Sort_algorithms.csproj",
       "projectName": "Sort_algorithms",
-      "projectPath": "C:\\Users\\kino7\\Documents\\Programowanie\\Sort_algorithms\\Sort_algorithms.csproj",
+      "projectPath": "C:\\Users\\kino7\\Documents\\Programowanie\\Algorithms\\Sort_algorithms\\Sort_algorithms.csproj",
       "packagesPath": "C:\\Users\\kino7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kino7\\Documents\\Programowanie\\Sort_algorithms\\obj\\",
+      "outputPath": "C:\\Users\\kino7\\Documents\\Programowanie\\Algorithms\\Sort_algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
