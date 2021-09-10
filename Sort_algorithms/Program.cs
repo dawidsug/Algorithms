@@ -14,7 +14,7 @@ namespace Sort_algorithms
             }
 
             DateTime start = DateTime.Now;
-            SelectionSort.Sort<int>(tableToSort);
+            QuickSort.Sort<int>(tableToSort);
             DateTime end = DateTime.Now;
             
             TimeSpan ts = (end - start);
